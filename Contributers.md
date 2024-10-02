@@ -16,3 +16,7 @@
 ### **Mahil Reshi**: [Mahil](https://github.com/mahilreshi)
 - J&K, India
 - Hobbies: Web Dev, IOT, Embedded sys. etc
+
+### **Tirth Joshi**: [Tirth](https://github.com/tirth5828)
+- Gujarat, India
+- Hobbies: Quantum Computing, Machine Learning, App Dev etc
